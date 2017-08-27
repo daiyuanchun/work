@@ -1,0 +1,15 @@
+*{ padding:0; margin:0; list-style:none;}
+.wrap{ width:1281px; height:569px; margin:0 auto;} /*外套*/
+.head{ width:1281px; height:76px; float:left;}/*头部*/
+.head_nav{ width:669px; height:76px; float:left; margin-left:125px;}/*导航栏*/
+.head_nav ul li{ width:98px; height:76px; float:left; text-align:center; line-height:76px; cursor:pointer;}/*导航栏*/
+.head_nav_tp{ width:240px; height:44px; float:left; margin-left:53px; margin-top:20px;}/*导航栏-图片*/
+.main{ width:1280px; height:495px; float:left; border-top-style:solid; border-top-width:2px; border-top-color:#93bfc2;}/*主题*/
+.main_lf{ width:597px; height:406px; float:left; background:#feff99;}/*主题左边*/
+.main_lf_tp{ width:298px; height:302px; float:left; margin-left:151px; margin-top:53px;}/*主题左边-头像*/
+.main_lr{ width:680px; height:406px; float:left; background:#eeeeee;}/*主题右边*/
+.main_lr_txt{ width:371px; height:240px; float:left; margin-left:153px; margin-top:53px;}/*主题右边-文字*/
+.main_lr_txt_text{ width:175px; height:129px; float:left; margin-left:106px;}/*主题右边-文字*/
+.main_lr_txt_text p{ width:175px; height:30px; text-align:center; line-height:58px;}/*主题右边-文字*/
+.main_lr_txt_text2{ width:175px; height:30px; float:left; margin-top:50px; margin-left:106px; font-size:16px;}/*主题右边-文字*/
+.main_footer{ width:1280px; height:91px; float:left; background:#99bbbc;}/*主题尾部*/
